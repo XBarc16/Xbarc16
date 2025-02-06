@@ -17,7 +17,7 @@ When I'm not diving into data, you'll often find me lacing up my running shoes, 
 My CV in [pdf]( https://drive.google.com/file/d/1se7exOexHGKL_vtSRrNCLoIiQYHwCVA1/view).
 
 ## Table of Contents
-- [About](https://github.com/XBarc16/Data-Analysis-Portfolio/main/README.md#about)
+- [About](https://github.com/XBarc16/blob/main/README.md#about)
 - [Portfolio Projects]( https://github.com/XBarc16/Data-Analyst-Portfolio/tree/main )
   - [Python Projects]( https://github.com/XBarc16/Data-Analyst-Portfolio/tree/main/Project/Python%20Projects )
     - [Soccer Transfer Market Analysis](https://github.com/XBarc16/Data-Analyst-Portfolio/tree/main/Project/Python%20Projects/Soccer%20Transfer%20Market%20Analysis)
@@ -37,8 +37,8 @@ My CV in [pdf]( https://drive.google.com/file/d/1se7exOexHGKL_vtSRrNCLoIiQYHwCVA
     - [Plants Sales Performance Dashboard](https://github.com/XBarc16/Data-Analyst-Portfolio/tree/main/Project/Power%20BI%20Projects/Plants%20Sales%20Performance%20Dashboard) 
 - [Education](https://github.com/XBarc16/Data-Analysis-Portfolio/blob/main/README.md##education)
 - [Kaggle](https://www.kaggle.com/xavierberge)  
-- [Certificates](https://github.com/XBarc16/Data-Analysis-Portfolio/blob/main/README.md##certificates)
-- [Contact]( https://github.com/XBarc16/Data-Analysis-Portfolio/blob/main/README.md##contacts)
+- [Certificates](https://github.com/XBarc16/Data-Analysis-Portfolio/blob/main/README.md#certificates)
+- [Contact]( https://github.com/XBarc16/Data-Analysis-Portfolio/blob/main/README.md#contacts)
 
 ## Education
 University Rennes 2, Rennes: 
