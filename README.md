@@ -35,10 +35,10 @@ My CV in [pdf]( https://drive.google.com/file/d/1se7exOexHGKL_vtSRrNCLoIiQYHwCVA
     - [Electric Vehicles Analysis](https://github.com/XBarc16/Data-Analyst-Portfolio/tree/main/Project/Power%20BI%20Projects/Electric%20Vehicles%20Analysis)
     - [Hospital Emergency Room Dashboard](https://github.com/XBarc16/Data-Analyst-Portfolio/tree/main/Project/Power%20BI%20Projects/Hospital%20Emergency%20Room%20Dashboard)
     - [Plants Sales Performance Dashboard](https://github.com/XBarc16/Data-Analyst-Portfolio/tree/main/Project/Power%20BI%20Projects/Plants%20Sales%20Performance%20Dashboard) 
-- [Education](https://github.com/XBarc16/Data-Analysis-Portfolio/blob/main/README.md##education)
+- [Education](https://github.com/XBarc16/Xbarc16/blob/main/README.md#education)
 - [Kaggle](https://www.kaggle.com/xavierberge)  
-- [Certificates](https://github.com/XBarc16/Data-Analysis-Portfolio/blob/main/README.md#certificates)
-- [Contact]( https://github.com/XBarc16/Data-Analysis-Portfolio/blob/main/README.md#contacts)
+- [Certificates](https://github.com/XBarc16/Xbarc16/blob/main/README.md#certificates)
+- [Contact]( https://github.com/XBarc16/Xbarc16/blob/main/README.md#contacts)
 
 ## Education
 University Rennes 2, Rennes: 
