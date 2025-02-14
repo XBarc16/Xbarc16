@@ -14,7 +14,7 @@ Currently, I enjoy creating my own datasets for analysis, exploring tools like T
 
 When I'm not diving into data, you'll often find me lacing up my running shoes, engaged in a thrilling pickup soccer match, or experimenting in the kitchen as I whip up culinary delights. A bit of a movie and TV show buff, I love to immerse myself in captivating stories, often with a draft of my own when I find a free moment to jot down ideas.
 
-My CV in [pdf]( https://drive.google.com/file/d/1se7exOexHGKL_vtSRrNCLoIiQYHwCVA1/view).
+My CV in [pdf]( https://tinyurl.com/ycx6dpra ).
 
 ## Table of Contents
 - [About](https://github.com/XBarc16/Xbarc16/blob/main/README.md#about)
