@@ -49,14 +49,14 @@ Saint-Cyr Coetquidan Officers Military School:
 2011
 
 ## Certificates
-The most effective way to demonstrate your skills is through practical experience and sharing the work you've accomplished. However, certificates can sometimes serve as a secondary indicator of your capabilities. Below is a list of my certifications, along with their completion dates:
+The most effective way to demonstrate your skills is through practical experience and sharing the work you've accomplished. However, certificates can sometimes serve as a secondary indicator of your capabilities. Below is a list of my certifications, along with my credly profile:
 - [Credly Profile](https://www.credly.com/users/xavier-berge)
 
-- [Google Data Analytics Professional Certificate]( https://coursera.org/share/6141b7be4345d5a13cc689464af298f2 ) (Jul 2024) (Coursera - Google)
-- [Excel Skills for Business](https://www.coursera.org/account/accomplishments/specialization/SVWMPPEVHUBV) (Aug 2024) (Coursera – Macquarie University)
-- [Excel Skills for Data Analytics and Visualization](https://www.coursera.org/account/accomplishments/specialization/H1PXUGLZGRN9 ) (Sep 2024) (Coursera – Macquarie University)
-- [IBM Data Analyst Professional Certificate]( https://coursera.org/share/24ee1b68ccf950d1371f1e13ebf7dda5 ) (Oct 2024) (Coursera - IBM)
-- [Microsoft Power BI Data Analyst Professional Certificate]( https://coursera.org/share/2e47c0cf266489e716ea9e6df38fe751 ) (Nov 2024) (Coursera - Microsoft)
+- [Google Data Analytics Professional Certificate]( https://coursera.org/share/6141b7be4345d5a13cc689464af298f2 ) (Coursera - Google)
+- [Excel Skills for Business](https://www.coursera.org/account/accomplishments/specialization/SVWMPPEVHUBV) (Coursera – Macquarie University)
+- [Excel Skills for Data Analytics and Visualization](https://www.coursera.org/account/accomplishments/specialization/H1PXUGLZGRN9 ) (Coursera – Macquarie University)
+- [IBM Data Analyst Professional Certificate]( https://coursera.org/share/24ee1b68ccf950d1371f1e13ebf7dda5 ) (Coursera - IBM)
+- [Microsoft Power BI Data Analyst Professional Certificate]( https://coursera.org/share/2e47c0cf266489e716ea9e6df38fe751 ) (Coursera - Microsoft)
 
 ## Contacts
 - Portfolio: [Xavier Berge]( https://www.datascienceportfol.io/xavierbergealroch/projects/3 )
